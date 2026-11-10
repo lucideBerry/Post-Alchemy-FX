@@ -1,6 +1,6 @@
 # Post Alchemy FX: 60 Motion Design Compositor Effects
 
-Product page and documentation for **Post Alchemy FX**, a Blender 5.2+ add-on by LarkLab.
+Product page and documentation for **Post Alchemy FX**, a Blender 5.0+ add-on by LarkLab.
 
 | Page | URL | Folder |
 |---|---|---|
